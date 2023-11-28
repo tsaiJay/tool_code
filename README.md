@@ -5,7 +5,6 @@ useful code template can save lots of time
 
 ### 功能說明
 提供一部電腦上同步錄製多部webcam畫面的程式
-
 安裝:
 ```
 pip install opencv
@@ -17,8 +16,7 @@ pip install opencv
 SAVE_DIR = 'shoot_video'
 cam_id  = [0, 1]
 ```
-
-## 待更新功能:
+### 待更新功能:
 - [ ] 顯示畫面功能尚無法自動偵測相機數量
 - [ ] class獨立成單一py檔案
 - [ ] 顯示畫面的設定marker功能無法適應不同解析度
