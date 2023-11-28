@@ -1,5 +1,5 @@
 # tool_code
-useful code template can save lots of time
+these useful code templates can save lots of time
 
 ## multi_cam_recorder
 
