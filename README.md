@@ -10,7 +10,7 @@ $ pip install opencv
 ```
 ### 使用方法
 - 更改儲存資料夾路徑
-- 設定要錄製的webcam ID
+- 設定要錄製的webcam ID，範例中為設定ID為0、1的兩部webcam
 ```
     SAVE_DIR = './shoot_multi_vid/'
     CAM_ID = [0, 1]
