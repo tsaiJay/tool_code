@@ -111,7 +111,7 @@ class MultiCamManager(object):
 
 if __name__ == "__main__":
 
-    SAVE_DIR = './shoot_multi_vid/'
+    SAVE_DIR = './record_multi_vid/'
     CAM_ID = [0, 1]
     ATTRIBUTE = {
         'fps': 30,  # maximum of fps depends on hardware
